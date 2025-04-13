@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "rings")(type KiCad)(uri "$(KIPRJMOD)/rings.pretty")(options "")(descr ""))
-)
