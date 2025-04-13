@@ -17,7 +17,7 @@ In the **rings_panel/ folder** you will find the original rings.svg file kindly 
 
 In the **root folder** you will find the two zip files containing the gerbers for both the panel and the main board, as well as the BOM. The BOM has been taken from the pichenettes repository and I just added links to the parts available at my favorite distributor (TME), but also those sourced from Thonk (pots and jacks). The crystals, as well as the now discontinued DAC IC were not available at TME and should be sourced elsewhere.
 
-This is distributed under the CC 3.0 BY SA licence. Credits go to **Emilie Gillet** for designing this awesome module and generously making the design open source, and **30350n** (Printable Instruments), for their elegant take on the Rings Panel.
+This is distributed under the CC 3.0 BY SA licence. Credits go to **Emilie Gillet** for designing this awesome module and generously making the design open source, and **30350n** (Printable Instruments), for their elegant take on the Rings front panel.
 
 --------
 *dBArt, 2025*
